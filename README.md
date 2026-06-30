@@ -1,7 +1,7 @@
 OIBSIP – Web Development Level 1 Projects
 
 This repository contains three Web Development Level 1 projects completed as part of the OIBSIP Internship Program. Each project focuses on strengthening core front-end development skills using HTML5 and CSS3, with an emphasis on layout, responsiveness, and clean UI design.
-
+ 
 📁 Project Structure
 OIBSIP
 ├── WebDev-L1-LandingPage
