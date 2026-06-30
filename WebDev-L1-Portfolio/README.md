@@ -1,71 +1,26 @@
-# 👤 Portfolio Website
+Portfolio Website – Web Development Level 1
 
-A personal portfolio website for **Thomas Edwin**, an AI/ML learning student, built as part of the **Oasis Infobyte Web Development Internship — Level 1**.
+This project is a personal portfolio website developed as part of the OIBSIP Web Development Level 1 Internship Program. The purpose of this project is to create a professional online presence that showcases skills, projects, and contact information in a clear and structured manner.
 
-The site is a single-page, dark-themed portfolio with smooth scroll-reveal animations, presenting an "AI/ML enthusiast" persona — covering background, skills, projects, certifications, and contact details.
+The portfolio is designed with a focus on personal branding, responsiveness, and clean UI layout. It demonstrates the ability to organize information effectively and present it in a professional format using basic web technologies.
 
----
+Key Features:
+- About section with personal introduction
+- Skills overview section
+- Projects showcase section
+- Contact information section
+- Responsive and user-friendly layout
 
-## 📌 Sections
+Technologies Used:
+- HTML5
+- CSS3
 
-- **Hero** — name, role, tagline, and call-to-action buttons, with an animated avatar badge
-- **About** — bio, areas of interest (NLP, Computer Vision, etc.), and quick highlight stats
-- **Skills & Tools** — categorized skill tags across:
-  - AI / Machine Learning (Python, NumPy, Pandas, Scikit-learn, TensorFlow, NLP)
-  - Web & Mobile (React Native, Flutter, Django, Flask, REST APIs)
-  - Frontend (HTML5, CSS3, Tailwind CSS, JavaScript, Responsive Design)
-  - Databases (MySQL, PostgreSQL, SQLite, MongoDB)
-  - Tools & Workflow (Git/GitHub, Jupyter, VS Code, Docker, Render)
-- **Projects** — showcase cards with live demo / GitHub links, including:
-  - Smart Document Organizer (AI-powered file classification, team project)
-  - Landing Page — Unbounce Clone (this internship's Level 1 Landing Page task)
-- **Certifications** — IBM SkillsBuild, Great Learning, Cisco, Coursera (Duke University)
-- **Contact** — email, LinkedIn, GitHub links, and a contact form (client-side only — see note below)
-- Scroll-triggered reveal animations using `IntersectionObserver`
-- Responsive mobile navigation with hamburger toggle
-- Active nav-link highlighting based on scroll position
+Local Preview:
+http://127.0.0.1:5500/WebDev-L1-Portfolio/index.html
 
----
+Purpose:
+This project was created to build a beginner-friendly portfolio website suitable for internships, academic submissions, and entry-level front-end development roles.
 
-## 🛠️ Built With
-
-- **HTML5** — semantic structure
-- **CSS3** — custom properties, Grid & Flexbox, responsive breakpoints, scroll animations
-- **JavaScript (Vanilla)** — nav toggle, scroll reveal, active-link highlighting, contact form handling
-- Google Fonts (Syne, Inter)
-
----
-
-## 🚀 How to Run
-
-1. Download or clone this folder.
-2. Open `index.html` in any modern web browser.
-3. No build steps, installs, or dependencies required.
-
-> **Note:** The contact form currently shows a confirmation alert on submit. To receive real messages, connect it to a service like [Formspree](https://formspree.io/) or [EmailJS](https://www.emailjs.com/).
-
----
-
-## 📂 Project Structure
-
-```
-WebDev-L1-Portfolio/
-├── index.html       # Full portfolio site (HTML + CSS + JS in one file)
-└── README.md        # Project documentation
-```
-
----
-
-## 📸 Screenshot
-
-_Add a screenshot of the page here (e.g. `screenshot.png`) and reference it like below:_
-
-```markdown
-![Portfolio Screenshot](screenshot.png)
-```
-
----
-
-## 🙋 Author
-
-Built as part of the **Oasis Infobyte (OIBSIP) Web Development Internship**.
+Author:
+Thomas Edwin  
+Web Development Intern – OIBSIP
