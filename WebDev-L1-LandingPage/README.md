@@ -1,62 +1,25 @@
-# 🖥️ Landing Page
+Landing Page – Web Development Level 1
 
-A polished, single-page **SaaS marketing landing page** built as part of the **Oasis Infobyte Web Development Internship — Level 1**.
+This project is a visually polished static landing page created as part of the OIBSIP Web Development Level 1 Internship Program. The goal of this project is to design an attractive and well-structured landing page that effectively presents a product, service, or brand while following modern UI and layout principles.
 
-The page is themed as a fictional landing-page-builder product ("Unbounce") and includes a full marketing site layout: sticky nav, hero, social-proof logos/photos, feature grid, about section, testimonials, CTA band, and footer.
+The landing page focuses on clean design, proper spacing, readable typography, and clear visual hierarchy. It demonstrates the ability to structure content using HTML5 and style it using CSS3 without relying on JavaScript.
 
----
+Key Features:
+- Navigation bar for easy section access
+- Hero section with a headline and call-to-action button
+- Multiple content sections for structured information
+- Clean and modern user interface
 
-## 📌 Features / Sections
+Technologies Used:
+- HTML5
+- CSS3
 
-- **Sticky navbar** with logo, nav links, and login/CTA buttons
-- **Hero section** with headline, subtext, dual call-to-action buttons, and a visual mockup card
-- **Trusted-by logo strip** + photo strip for social proof
-- **Features section** — 3-column card grid (Builder, Testing, Insights)
-- **About section** — 3-column card grid explaining product philosophy
-- **Testimonials section** — customer quotes with avatar, name, and role
-- **CTA band** — final conversion-focused call-to-action
-- **Footer** — brand blurb, social links, and multi-column site links (Product / Company / Contact)
-- Custom design system using CSS variables (colors, radius, max-width)
-- Google Fonts integration (Space Grotesk, Inter, JetBrains Mono)
-- Fully responsive layout
+Local Preview:
+http://127.0.0.1:5500/WebDev-L1-LandingPage/index.html
 
----
+Purpose:
+This project was built to practice layout design, improve front-end fundamentals, and create a professional-looking landing page suitable for beginner portfolios and internship evaluation.
 
-## 🛠️ Built With
-
-- **HTML5** — semantic structure
-- **CSS3** — custom properties, CSS Grid & Flexbox, responsive breakpoints
-- Google Fonts (Space Grotesk, Inter, JetBrains Mono)
-
----
-
-## 🚀 How to Run
-
-1. Download or clone this folder.
-2. Open `index.html` in any modern web browser.
-3. No build steps, installs, or dependencies required (uses CDN-hosted fonts and images).
-
----
-
-## 📂 Project Structure
-
-```
-WebDev-L1-LandingPage/
-├── index.html       # Full landing page (HTML + CSS in one file)
-└── README.md        # Project documentation
-```
-
----
-
-## 📸 Screenshot
-
-
-```markdown
-![Landing Page Screenshot](screenshot.png)
-```
-
----
-
-## 🙋 Author
-
-Built as part of the **Oasis Infobyte (OIBSIP) Web Development Internship**.
+Author:
+Thomas Edwin  
+Web Development Intern – OIBSIP
