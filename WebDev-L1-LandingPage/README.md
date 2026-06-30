@@ -50,7 +50,6 @@ WebDev-L1-LandingPage/
 
 ## 📸 Screenshot
 
-_Add a screenshot of the page here (e.g. `screenshot.png`) and reference it like below:_
 
 ```markdown
 ![Landing Page Screenshot](screenshot.png)
