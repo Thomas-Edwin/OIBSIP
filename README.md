@@ -68,5 +68,3 @@ http://127.0.0.1:5500/WebDev-L1-Temperature/index.html
 Thomas Edwin  
 Web Development Intern – OIBSIP
 
-📄 License
-This project is created for educational and internship purposes.
