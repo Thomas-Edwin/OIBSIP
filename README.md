@@ -23,7 +23,7 @@ Key Features:
 - Clean and modern UI design
 
 Local Preview:  
-http://127.0.0.1:5500/WebDev-L1-LandingPage/index.html
+https://thomas-edwin.github.io/OIBSIP/WebDev-L1-LandingPage/
 
 2️⃣ Portfolio Website  
 📂 Folder: WebDev-L1-Portfolio  
@@ -39,7 +39,7 @@ Key Features:
 - Responsive layout
 
 Local Preview:  
-http://127.0.0.1:5500/WebDev-L1-Portfolio/index.html
+https://thomas-edwin.github.io/OIBSIP/WebDev-L1-Portfolio/
 
 3️⃣ Temperature Converter  
 📂 Folder: WebDev-L1-Temperature  
@@ -53,7 +53,7 @@ Key Features:
 - Real-time conversion output
 
 Local Preview:  
-http://127.0.0.1:5500/WebDev-L1-Temperature/index.html
+https://thomas-edwin.github.io/OIBSIP/WebDev-L1-Temperature/
 
 🛠️ Technologies Used
 - HTML5
